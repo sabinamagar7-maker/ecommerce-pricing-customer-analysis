@@ -66,8 +66,7 @@ brazilian-ecommerce-pricing-analytics/
 ├── sql/
 │   └── sample_queries.sql
 │
-├── README.md
-└── requirements.txt
+├── README.md 
 ```
 
 ---
