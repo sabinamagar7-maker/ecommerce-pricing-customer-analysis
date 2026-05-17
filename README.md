@@ -206,6 +206,7 @@ Run notebooks in order:
 ```
 
 ## 3. Practice Sample Queries 
+
 Load data in Big Query
 Use Sample_Queries.sql for Business question
 ---
