@@ -154,7 +154,7 @@ The analysis demonstrates that:
 | Programming | Python |
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Querying | SQL | Big Query
+| Querying | SQL, Big Query | 
 | Environment | Jupyter Notebook |
 
 ---
