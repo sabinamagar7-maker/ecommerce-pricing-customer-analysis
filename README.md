@@ -154,7 +154,7 @@ The analysis demonstrates that:
 | Programming | Python |
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Querying | SQL |
+| Querying | SQL | Big Query
 | Environment | Jupyter Notebook |
 
 ---
@@ -182,17 +182,11 @@ Examples of analyses included in the project:
 git clone <repository-url>
 ```
 
----
 
-## 2. Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
-## 3. Open Jupyter Notebook
+## 2. Open Jupyter Notebook
 
 Run:
 
@@ -202,7 +196,7 @@ jupyter notebook
 
 ---
 
-## 4. Execute Notebooks
+## 3. Execute Notebooks
 
 Run notebooks in order:
 
@@ -211,6 +205,9 @@ Run notebooks in order:
 02_Data_Analysis.ipynb
 ```
 
+## 3. Practice Sample Queries 
+Load data in Big Query
+Use Sample_Queries.sql for Business question
 ---
 
 #  Future Improvements
