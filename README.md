@@ -205,10 +205,10 @@ Run notebooks in order:
 02_Data_Analysis.ipynb
 ```
 
-## 3. Practice Sample Queries 
+## 4. Practice Sample Queries 
 
-Load data in Big Query
-Use Sample_Queries.sql for Business question
+Load data and run Sample_Queries.sql in Big Query
+
 ---
 
 #  Future Improvements
