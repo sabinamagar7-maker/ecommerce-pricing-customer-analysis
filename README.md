@@ -1,4 +1,4 @@
-#  Brazilian E-Commerce Category & Pricing Analysis
+# E-Commerce Category & Pricing Analysis
 
 ##  Project Overview
 
